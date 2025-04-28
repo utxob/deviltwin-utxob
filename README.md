@@ -48,8 +48,8 @@ To install them:
 - The code will flash to your ESP8266 device. This will take a few seconds.
 
 ### 6. **Running the Code**
-- SSID: DevilTwin.
-- PASSWORD: 12345678.
+- **SSID**: **DevilTwin**.
+- **PASSWORD**: **12345678**.
 - After successful flashing, open your web browser and navigate to **192.168.1.1**.
 - You will be presented with a webpage showing a list of available WiFi networks.
 - Select a network and input the password in the provided form.
